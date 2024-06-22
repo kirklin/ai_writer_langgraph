@@ -1,6 +1,6 @@
-# LangGraph Study
+# AI Writer Workflow
 
-LangGraph Study 是一个基于 LangChain 和 OpenAI 的项目，展示了如何使用语言模型和工具来生成大纲并根据大纲撰写文章。项目通过定义多个 Agent（大纲生成器和文章写手），并利用一个主管（Supervisor）来协调这些 Agent 之间的工作流。
+AI Writer Workflow 是一个基于 LangChain、 LangGraph 和 OpenAI 的项目，展示了如何使用语言模型和工具来生成大纲并根据大纲撰写文章。项目通过定义多个 Agent（大纲生成器和文章写手），并利用一个主管（Supervisor）来协调这些 Agent 之间的工作流。
 
 ## 项目结构
 
